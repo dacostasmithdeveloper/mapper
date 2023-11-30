@@ -4,7 +4,6 @@ import { Country } from './interface/country';
 import { CountryService } from './bank.service';
 import { map, filter, tap } from 'rxjs/operators'
 
-
 declare function muttbutt(): void;
 
 

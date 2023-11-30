@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "mapper",
+			"path": "../.."
+		},
+		{
+			"name": "mapcha",
+			"path": "../../../mapcha"
+		}
+	],
+	"settings": {}
+}
